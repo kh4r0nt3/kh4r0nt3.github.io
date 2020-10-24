@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", ">=3.8.6"
+gem "tzinfo-data"
+gem "wdm"
 
 # Official Plugins
 group :jekyll_plugins do
